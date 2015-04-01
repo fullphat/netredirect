@@ -1,0 +1,8 @@
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\bin\Release\netredirect.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\bin\Release\netredirect.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\obj\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\obj\Release\Interop.libSnarlStyles.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\obj\Release\Interop.melon.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\obj\Release\netredirect2.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\obj\Release\netredirect.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\obj\Release\netredirect.pdb

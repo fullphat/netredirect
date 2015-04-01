@@ -1,0 +1,10 @@
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Debug\prowl4.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Debug\prowl4.pdb
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Debug\netredirect.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Debug\netredirect.pdb
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Debug\ResolveAssemblyReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Debug\Interop.libSnarlStyles.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Debug\Interop.melon.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Debug\prowl4.csproj.ResolveComReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Debug\prowl4.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Debug\prowl4.pdb

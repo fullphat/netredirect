@@ -1,0 +1,21 @@
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\obj\x86\Debug\Interop.libSnarlStyles.dll
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\obj\x86\Debug\Interop.melon.dll
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\obj\x86\Debug\TestNetDirect.csproj.ResolveComReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\obj\x86\Debug\TestNetDirect.Form1.resources
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\obj\x86\Debug\TestNetDirect.Properties.Resources.resources
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\bin\Debug\TestNetDirect.exe.config
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\bin\Debug\TestNetDirect.exe
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\bin\Debug\TestNetDirect.pdb
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\bin\Debug\netredirect.dll
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\bin\Debug\netredirect.pdb
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\obj\x86\Debug\TestNetDirect.exe
+K:\My Documents\coding\cSharp\libnetredirect\TestNetDirect\obj\x86\Debug\TestNetDirect.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\TestNetDirect\bin\Debug\TestNetDirect.exe.config
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\TestNetDirect\obj\x86\Debug\Interop.libSnarlStyles.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\TestNetDirect\obj\x86\Debug\Interop.melon.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\TestNetDirect\obj\x86\Debug\TestNetDirect.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\TestNetDirect\obj\x86\Debug\TestNetDirect.exe
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\TestNetDirect\obj\x86\Debug\TestNetDirect.pdb

@@ -1,0 +1,30 @@
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Release\prowl4.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Release\prowl4.pdb
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Release\netredirect.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Release\netredirect.pdb
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\ResolveAssemblyReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\Interop.libSnarlStyles.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\Interop.melon.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\prowl4.csproj.ResolveComReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\prowl4.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\prowl4.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Release\prowl4.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Release\prowl4.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Release\netredirect.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\bin\Release\netredirect.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\Interop.libSnarlStyles.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\Interop.melon.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\prowl4.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\prowl4.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\prowl4\obj\Release\prowl4.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\prowl4\obj\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\prowl4\obj\Release\Interop.libSnarlStyles.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\prowl4\obj\Release\Interop.melon.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\prowl4\obj\Release\prowl4.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\prowl4\obj\Release\prowl4.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\prowl4\bin\Release\prowl4.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\prowl4\bin\Release\prowl4.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\prowl4\bin\Release\netredirect.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\prowl4\bin\Release\netredirect.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\prowl4\obj\Release\prowl4.dll

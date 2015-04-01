@@ -1,0 +1,8 @@
+K:\My Documents\coding\cSharp\libnetredirect\obj\Release\ResolveAssemblyReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\bin\Release\libnetredirect.dll
+K:\My Documents\coding\cSharp\libnetredirect\bin\Release\libnetredirect.pdb
+K:\My Documents\coding\cSharp\libnetredirect\obj\Release\libnetredirect.dll
+K:\My Documents\coding\cSharp\libnetredirect\obj\Release\libnetredirect.pdb
+K:\My Documents\coding\cSharp\libnetredirect\obj\Release\Interop.libSnarlStyles.dll
+K:\My Documents\coding\cSharp\libnetredirect\obj\Release\Interop.melon.dll
+K:\My Documents\coding\cSharp\libnetredirect\obj\Release\libnetredirect.csproj.ResolveComReference.cache

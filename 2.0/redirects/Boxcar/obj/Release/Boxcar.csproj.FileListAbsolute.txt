@@ -1,0 +1,30 @@
+K:\My Documents\coding\cSharp\Boxcar\obj\Release\ResolveAssemblyReference.cache
+K:\My Documents\coding\cSharp\Boxcar\obj\Release\Interop.libSnarlStyles.dll
+K:\My Documents\coding\cSharp\Boxcar\obj\Release\Interop.melon.dll
+K:\My Documents\coding\cSharp\Boxcar\obj\Release\Boxcar.csproj.ResolveComReference.cache
+K:\My Documents\coding\cSharp\Boxcar\bin\Release\Boxcar.dll
+K:\My Documents\coding\cSharp\Boxcar\bin\Release\Boxcar.pdb
+K:\My Documents\coding\cSharp\Boxcar\bin\Release\netredirect.dll
+K:\My Documents\coding\cSharp\Boxcar\bin\Release\netredirect.pdb
+K:\My Documents\coding\cSharp\Boxcar\obj\Release\Boxcar.dll
+K:\My Documents\coding\cSharp\Boxcar\obj\Release\Boxcar.pdb
+K:\My Documents\coding\cSharp\libnetredirect\redirects\Boxcar\bin\Release\Boxcar.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\Boxcar\bin\Release\Boxcar.pdb
+K:\My Documents\coding\cSharp\libnetredirect\redirects\Boxcar\bin\Release\netredirect.pdb
+K:\My Documents\coding\cSharp\libnetredirect\redirects\Boxcar\obj\Release\ResolveAssemblyReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\redirects\Boxcar\obj\Release\Interop.libSnarlStyles.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\Boxcar\obj\Release\Interop.melon.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\Boxcar\obj\Release\Boxcar.csproj.ResolveComReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\redirects\Boxcar\obj\Release\Boxcar.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\Boxcar\obj\Release\Boxcar.pdb
+K:\My Documents\coding\cSharp\libnetredirect\redirects\Boxcar\bin\Release\netredirect.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\Boxcar\obj\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\Boxcar\obj\Release\Interop.libSnarlStyles.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\Boxcar\obj\Release\Interop.melon.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\Boxcar\obj\Release\Boxcar.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\Boxcar\obj\Release\Boxcar.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\Boxcar\obj\Release\Boxcar.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\Boxcar\bin\Release\Boxcar.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\Boxcar\bin\Release\Boxcar.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\Boxcar\bin\Release\netredirect.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\Boxcar\bin\Release\netredirect.pdb

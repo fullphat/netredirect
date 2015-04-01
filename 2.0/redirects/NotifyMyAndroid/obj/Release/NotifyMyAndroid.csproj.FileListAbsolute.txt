@@ -1,0 +1,30 @@
+K:\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\ResolveAssemblyReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\bin\Release\NotifyMyAndroid.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\bin\Release\NotifyMyAndroid.pdb
+K:\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\bin\Release\netredirect.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\bin\Release\netredirect.pdb
+K:\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\Interop.libSnarlStyles.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\Interop.melon.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\NotifyMyAndroid.csproj.ResolveComReference.cache
+K:\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\NotifyMyAndroid.dll
+K:\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\NotifyMyAndroid.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\bin\Release\NotifyMyAndroid.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\bin\Release\NotifyMyAndroid.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\bin\Release\netredirect.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\bin\Release\netredirect.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\Interop.libSnarlStyles.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\Interop.melon.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\NotifyMyAndroid.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\NotifyMyAndroid.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect\redirects\NotifyMyAndroid\obj\Release\NotifyMyAndroid.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\NotifyMyAndroid\obj\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\NotifyMyAndroid\obj\Release\Interop.libSnarlStyles.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\NotifyMyAndroid\obj\Release\Interop.melon.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\NotifyMyAndroid\obj\Release\NotifyMyAndroid.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\NotifyMyAndroid\obj\Release\NotifyMyAndroid.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\NotifyMyAndroid\bin\Release\NotifyMyAndroid.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\NotifyMyAndroid\bin\Release\NotifyMyAndroid.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\NotifyMyAndroid\bin\Release\netredirect.dll
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\NotifyMyAndroid\bin\Release\netredirect.pdb
+\\vmware-host\Shared Folders\Karanga\My Documents\coding\cSharp\libnetredirect2\redirects\NotifyMyAndroid\obj\Release\NotifyMyAndroid.dll
